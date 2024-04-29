@@ -3,23 +3,23 @@ The primary objective of this project is to conduct comprehensive data analysis 
 
 ---
 
-# Overview
+Overview
 
 This project aims to perform various data analysis tasks on a dataset containing product information and reviews. The tasks range from basic data loading to advanced text processing and sentiment analysis.
 
-# Task 1: Loading Data
+Task 1: Loading Data
 
 Implemented the `task1()` function in `task1.py` to load the dataset and provide basic statistics in JSON format. This includes counting the number of products and categories in the dataset.
 
-# Task 2: Data Aggregation
+Task 2: Data Aggregation
 
 Implemented the `task2()` function in `task2.py` to aggregate review data by calculating the average review score for each product. The function ensures that only valid reviews with a review star rating are considered for the calculation. Results are saved to a CSV file named `task2.csv`.
 
-# Task 3: Calculating the Average Product Price
+Task 3: Calculating the Average Product Price
 
 Implemented the `task3()` function in `task3.py` to calculate the average cost for each product. This involves handling various formats of cost data, including single prices and price ranges. Results are saved to a CSV file named `task3.csv`.
 
-# Task 4: Plotting the Average Review Score
+Task 4: Plotting the Average Review Score
 
 Implemented the `task4()` function in `task4.py` to create a plot comparing the average review score with the average price for products in the 'Pet Supplies' category. This visualization helps identify any potential relationship between product price and customer satisfaction.
 
