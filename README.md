@@ -1,11 +1,6 @@
-## Objective:
-The primary objective of this project is to conduct comprehensive data analysis on a dataset comprising product details and customer reviews. Utilizing advanced computational techniques, the project endeavors to extract valuable insights into product performance, pricing dynamics, and sentiment analysis, facilitating informed decision-making processes for stakeholders.
+## Overview
 
----
-
-### Overview
-
-This project aims to perform various data analysis tasks on a dataset containing product information and reviews. The tasks range from basic data loading to advanced text processing and sentiment analysis.
+This project aims to perform various data analysis tasks on a dataset containing product information and reviews. The tasks range from basic data loading to advanced text processing and sentiment analysis. Utilizing advanced computational techniques, the project endeavors to extract valuable insights into product performance, pricing dynamics, and sentiment analysis, facilitating informed decision-making processes for stakeholders.
 
 ## Task 1: Loading Data
 
