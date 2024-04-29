@@ -2,7 +2,7 @@
 
 This project aims to perform various data analysis tasks on a dataset containing product information and reviews. The tasks range from basic data loading to advanced text processing and sentiment analysis. Utilizing advanced computational techniques, the project endeavors to extract valuable insights into product performance, pricing dynamics, and sentiment analysis, facilitating informed decision-making processes for stakeholders.
 
-## Task 1: Loading Data
+### Task 1: Loading Data
 
 Implemented the `task1()` function in `task1.py` to load the dataset and provide basic statistics in JSON format. This includes counting the number of products and categories in the dataset.
 
