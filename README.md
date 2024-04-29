@@ -35,3 +35,4 @@ Implemented the `task7()` function in `task7.py` to calculate log odds ratios fo
 Prepared a comprehensive analysis report summarizing findings from tasks 4, 5, and 7. The report includes interpretations of plots, insights into review sentiment, and reflections on product characteristics. The report is submitted as `task8.pdf`.
 
 ---
+This was completed in Elements of Data Processing (COMP20008)
